@@ -1,4 +1,9 @@
-p {
+* {
   /*font-family: Lato;*/
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div {
+  text-align: center;
+  background-color: rgb(147, 197, 243);
+  color: rgb(230, 17, 17);
 }
