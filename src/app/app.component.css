@@ -3,7 +3,13 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 div {
-  text-align: center;
-  background-color: rgb(147, 197, 243);
-  color: rgb(230, 17, 17);
+  margin-bottom: 10px;
+}
+label {
+  display: inline-block;
+  width:130px;
+  color: #777777;
+}
+input {
+  padding: 5px 10px;
 }
